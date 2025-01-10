@@ -1,5 +1,9 @@
 # Actiquest Human Vision Subnet on Bittensor
 
+Giving access to Bittensor with Decentralized subnet inference for On-Device Human Vision Models
+
+[![License: MIT](https://camo.githubusercontent.com/6cd0120cc4c5ac11d28b2c60f76033b52db98dac641de3b2644bb054b449d60c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667)](https://opensource.org/licenses/MIT)
+
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVMk7sTgDGggU21uxywUHHoj1yJyE9N8rOR46mN5GOOvTnsUrsKluwdZFC-x6bBNMerHMmI1_aqKn_cZq7-gUXdQw5GBTzkzEA0w_IzIerjLf_EnCBf3lA4b4R9mrOXz5Sb2Cw0Q?key=AsJEkgePh24159X10uUz6PJ-)
 
 > The rapid advancements in AI and computer vision have led to an
