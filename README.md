@@ -1,5 +1,5 @@
 # 🤸 🏃 🏌 🤼 🤺 Human Vision Subnet on Bittensor
----
+
 Giving access to Bittensor with Decentralized subnet training for On-Device Human Vision Models
 
 [![License: MIT](https://camo.githubusercontent.com/6cd0120cc4c5ac11d28b2c60f76033b52db98dac641de3b2644bb054b449d60c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d79656c6c6f772e737667)](https://opensource.org/licenses/MIT)
